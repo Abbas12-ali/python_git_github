@@ -1,4 +1,4 @@
-# 📝 Python Command-Line To-Do List Application
+# Python Command-Line To-Do List Application
 
 A simple, beginner-friendly **Python CLI To-Do List App** built using **Object-Oriented Programming (OOP)** and **JSON file storage**.
 
@@ -11,9 +11,9 @@ This project is perfect for learning:
 
 ---
 
-## 🚀 Features
+## Features
 
-### ✅ Core Features
+### Core Features
 - Add new tasks  
 - Edit/update a task  
 - Mark a task as complete  
@@ -21,7 +21,7 @@ This project is perfect for learning:
 - Save & load tasks to/from a JSON file  
 - Clean table-style display  
 
-### ⭐ Bonus Features
+### Bonus Features
 - Task priority (High / Medium / Low)  
 - Due dates  
 - Search tasks  
