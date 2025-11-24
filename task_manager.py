@@ -13,7 +13,7 @@ class TaskManager:
             with open(TASKS_FILE, "r") as file:
                 data = json.load(file)
                 self.tasks = [Task(**item) for item in data]
-        except:
+        except():
             self.tasks = []
 
     def save_tasks(self):
